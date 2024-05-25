@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\shareddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\shareddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|d:\\dotnet project\\mvc\\sharedfile\\shareddemo\\shareddemo\\shareddemo\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBDCC63-782F-4848-B06A-A6A7A3A1FFBA}|SharedDemo\\SharedDemo.csproj|solutionrelative:shareddemo\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SharedDemo\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SharedDemo\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:57:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SharedDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SharedDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:50:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SharedDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SharedDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:47:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedDemo",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\SharedDemo.csproj",
+              "RelativeDocumentMoniker": "SharedDemo\\SharedDemo.csproj",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\SharedDemo.csproj",
+              "RelativeToolTip": "SharedDemo\\SharedDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T14:46:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SharedDemo\\Program.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Program.cs",
+              "RelativeToolTip": "SharedDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:44:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SharedDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SharedDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:44:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SharedDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SharedDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:01:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "SharedDemo\\Views\\Home\\Error.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\SHAREDFILE\\SharedDemo\\SharedDemo\\SharedDemo\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "SharedDemo\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:58:53.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

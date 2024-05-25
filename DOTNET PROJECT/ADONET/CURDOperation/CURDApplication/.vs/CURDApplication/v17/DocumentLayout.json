@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CURDApplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|d:\\dotnet project\\adonet\\curdoperation\\curdapplication\\curdapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|solutionrelative:curdapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|d:\\dotnet project\\adonet\\curdoperation\\curdapplication\\curdapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|solutionrelative:curdapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\curdapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|solutionrelative:curdapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sandi\\AppData\\Local\\Temp\\.vsdbgsrc\\6793b378b3c2753a1c6262ebe9bc8a89597d4d231c2bc898ea5ff9e570d51681\\_ThreadPoolWaitCallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\curdapplication\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|solutionrelative:curdapplication\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\curdapplication\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|solutionrelative:curdapplication\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E420-4BA9-4753-970C-1CD3A3BD8162}|CURDApplication\\CURDApplication.csproj|d:\\dotnet project\\adonet\\curdoperation\\curdapplication\\curdapplication\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CURDApplication",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\CURDApplication.csproj",
+              "RelativeDocumentMoniker": "CURDApplication\\CURDApplication.csproj",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\CURDApplication.csproj",
+              "RelativeToolTip": "CURDApplication\\CURDApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-25T19:30:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Web.config",
+              "RelativeDocumentMoniker": "CURDApplication\\Web.config",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Web.config",
+              "RelativeToolTip": "CURDApplication\\Web.config",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMLwC8AAAB6AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-25T19:29:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CURDApplication\\Models\\Student.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Models\\Student.cs",
+              "RelativeToolTip": "CURDApplication\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:15:32.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ThreadPoolWaitCallback.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AppData\\Local\\Temp\\.vsdbgsrc\\6793b378b3c2753a1c6262ebe9bc8a89597d4d231c2bc898ea5ff9e570d51681\\_ThreadPoolWaitCallback.cs",
+              "ToolTip": "C:\\Users\\sandi\\AppData\\Local\\Temp\\.vsdbgsrc\\6793b378b3c2753a1c6262ebe9bc8a89597d4d231c2bc898ea5ff9e570d51681\\_ThreadPoolWaitCallback.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:06:11.196Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Controllers\\SchoolController.cs",
+              "RelativeDocumentMoniker": "CURDApplication\\Controllers\\SchoolController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Controllers\\SchoolController.cs",
+              "RelativeToolTip": "CURDApplication\\Controllers\\SchoolController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:44:11.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CURDApplication\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CURDApplication\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA0vRUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:30:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CURDApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\ADONET\\CURDOperation\\CURDApplication\\CURDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CURDApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAoJmZmZnJvxsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:47:47.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

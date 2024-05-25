@@ -1,0 +1,43 @@
+﻿<p>INdex page</p>
+<h3>Inline staement</h3>
+<h5>Current time : @DateTime.Now</h5>
+<h5>Current time : @DateTime.Now.Year</h5>
+
+<h2>Multiline statement</h2>
+@{
+    var name ="sandip";
+    var age = 20;
+}
+<h4>My name is @name</h4>
+
+<h2> If condition</h2>
+@{
+    if( @age >= 20 )
+    {
+        <h2> pass</h2>
+    }
+    else
+    {
+        <h2> Fail</h2>
+    }
+}
+
+<h2>For loop</h2>
+@{
+    for(int i = 1; i <= 5; i++)
+    {
+        <h1>loop called for @i</h1>
+    }
+}
+
+
+<h2>For each loop</h2>
+@{
+    string[] fruit = { "mango", "Apple", "Banana", "Orange" };
+    <ul>
+    @foreach(var item in fruit)
+    {
+      <li>@item</li>
+    }
+    </ul>
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|d:\\dotnet project\\entityframework\\dbfirst\\dbfirstdemo\\dbfirstdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|solutionrelative:dbfirstdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\dbfirstdemo\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|solutionrelative:dbfirstdemo\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\dbfirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|solutionrelative:dbfirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\dbfirstdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{181A819D-5ECC-48AD-AF08-07AEE526E8E0}|DBFirstDemo\\DBFirstDemo.csproj|solutionrelative:dbfirstdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBFirstDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DBFirstDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T03:39:56.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DBFirstDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DBFirstDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:38:37.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\packages.config",
+              "RelativeDocumentMoniker": "DBFirstDemo\\packages.config",
+              "ToolTip": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\packages.config",
+              "RelativeToolTip": "DBFirstDemo\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-21T03:28:36.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "DBFirstDemo\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\ENTITYFRAMEWORK\\DBFIRST\\DBFirstDemo\\DBFirstDemo\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "DBFirstDemo\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T03:25:10.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

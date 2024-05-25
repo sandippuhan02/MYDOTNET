@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|d:\\dotnet project\\mvc\\datastorage\\datapassing\\datapassing\\datapassing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|solutionrelative:datapassing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|d:\\dotnet project\\mvc\\datastorage\\datapassing\\datapassing\\datapassing\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|solutionrelative:datapassing\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|d:\\dotnet project\\mvc\\datastorage\\datapassing\\datapassing\\datapassing\\views\\school\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|solutionrelative:datapassing\\views\\school\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|d:\\dotnet project\\mvc\\datastorage\\datapassing\\datapassing\\datapassing\\views\\school\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|solutionrelative:datapassing\\views\\school\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|d:\\dotnet project\\mvc\\datastorage\\datapassing\\datapassing\\datapassing\\views\\school\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9C9890-E42E-456D-9589-BF44526CF961}|..\\..\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\DataPassing.csproj|solutionrelative:datapassing\\views\\school\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Error.cshtml",
+              "RelativeDocumentMoniker": "DataPassing\\Views\\School\\Error.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Error.cshtml",
+              "RelativeToolTip": "DataPassing\\Views\\School\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:08:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Detail.cshtml",
+              "RelativeDocumentMoniker": "DataPassing\\Views\\School\\Detail.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Detail.cshtml",
+              "RelativeToolTip": "DataPassing\\Views\\School\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:06:32.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataPassing\\Views\\School\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Views\\School\\Index.cshtml",
+              "RelativeToolTip": "DataPassing\\Views\\School\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:58:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Program.cs",
+              "RelativeDocumentMoniker": "DataPassing\\Program.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Program.cs",
+              "RelativeToolTip": "DataPassing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:54:01.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Controllers\\SchoolController.cs",
+              "RelativeDocumentMoniker": "DataPassing\\Controllers\\SchoolController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\DATASTORAGE\\DataPassing\\DataPassing\\DataPassing\\Controllers\\SchoolController.cs",
+              "RelativeToolTip": "DataPassing\\Controllers\\SchoolController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:53:50.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@model TagHelperDemo.Models.Employee
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <form asp-controller="Home" asp-action="DisplayEmp" method="post">
+        <div>
+            <label asp-for="EmpID">EmpID : </label>
+            <input asp-for="EmpID" placeholder="Enter EmployeeID" />
+        </div>
+        <br />
+        <div>
+            <label asp-for="Name">Name : </label>
+            <input asp-for="Name" placeholder="Enter Your Name" />
+        </div>
+        <br />
+        <div>
+            <label asp-for="Age">Age : </label>
+            <input asp-for="Age" placeholder="Enter Your Age" />
+        </div>
+        <br />
+        <div>
+            <label asp-for="Country">Sountry :</label>
+            <select asp-for="Country" asp-items="Html.GetEnumSelectList<Country>()">
+                <option value="">select</option>
+            </select>
+        </div>
+        <div>
+            <label asp-for="Gender">Gender : </label>
+            <input type="radio" asp-for="Gender" value="1"/>Male
+            <input type="radio" asp-for="Gender" value="2"/>Female
+            <input type="radio" asp-for="Gender" value="3" />Others
+        </div>
+        <div>
+            <label asp-for="Salary">Salary : </label>
+            <input asp-for="Salary" placeholder="Enter Your Salary" />
+        </div>
+        <br />
+        <button type="submit">SUBMIT</button>
+    </form>
+</div>

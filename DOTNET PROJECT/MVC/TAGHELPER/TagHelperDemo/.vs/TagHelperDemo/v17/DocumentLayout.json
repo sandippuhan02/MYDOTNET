@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dotnet project\\mvc\\taghelper\\taghelperdemo\\taghelperdemo\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dotnet project\\mvc\\taghelper\\taghelperdemo\\taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dotnet project\\mvc\\taghelper\\taghelperdemo\\taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dotnet project\\mvc\\taghelper\\taghelperdemo\\taghelperdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dotnet project\\mvc\\taghelper\\taghelperdemo\\taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B08AD8-BB71-44B8-A950-3F9F0983E467}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayEmp.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\DisplayEmp.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Views\\Home\\DisplayEmp.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\DisplayEmp.cshtml",
+              "RelativeToolTip": "TagHelperDemo\\Views\\Home\\DisplayEmp.cshtml",
+              "ViewState": "AQIAACYAAAAAMzMzMzMbwC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:15:51.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:05:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:05:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Models\\Employee.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "TagHelperDemo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:03:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\TAGHELPER\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:03:02.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

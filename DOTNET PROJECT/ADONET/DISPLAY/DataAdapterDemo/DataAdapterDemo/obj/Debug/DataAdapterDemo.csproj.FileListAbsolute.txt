@@ -1,0 +1,10 @@
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\bin\Debug\DataAdapterDemo.exe.config
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\bin\Debug\DataAdapterDemo.exe
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\bin\Debug\DataAdapterDemo.pdb
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\bin\Debug\System.Data.SqlClient.dll
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\bin\Debug\System.Data.SqlClient.xml
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\obj\Debug\DataAdapterDemo.csproj.AssemblyReference.cache
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\obj\Debug\DataAdapterDemo.csproj.CoreCompileInputs.cache
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\obj\Debug\DataAdap.50086B8B.Up2Date
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\obj\Debug\DataAdapterDemo.exe
+D:\DOTNET PROJECT\ADONET\DISPLAY\DataAdapterDemo\DataAdapterDemo\obj\Debug\DataAdapterDemo.pdb

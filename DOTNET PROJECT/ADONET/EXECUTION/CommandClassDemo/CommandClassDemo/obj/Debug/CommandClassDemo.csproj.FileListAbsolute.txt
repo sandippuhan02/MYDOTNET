@@ -1,0 +1,10 @@
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\bin\Debug\CommandClassDemo.exe.config
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\bin\Debug\CommandClassDemo.exe
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\bin\Debug\CommandClassDemo.pdb
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\bin\Debug\System.Data.SqlClient.dll
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\bin\Debug\System.Data.SqlClient.xml
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\obj\Debug\CommandClassDemo.csproj.AssemblyReference.cache
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\obj\Debug\CommandClassDemo.csproj.CoreCompileInputs.cache
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\obj\Debug\CommandC.C2C84564.Up2Date
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\obj\Debug\CommandClassDemo.exe
+D:\DOTNET PROJECT\ADONET\EXECUTION\CommandClassDemo\CommandClassDemo\obj\Debug\CommandClassDemo.pdb

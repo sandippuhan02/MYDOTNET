@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\views\\home\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\views\\home\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|d:\\dotnet project\\mvc\\routing\\routingwithoutmvc\\routingwithoutmvc\\routingwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2575D527-B695-40DD-A871-66D521343444}|RoutingWithoutMVC\\RoutingWithoutMVC.csproj|solutionrelative:routingwithoutmvc\\routingwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RoutingWithoutMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:42:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RoutingWithoutMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:41:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\Home\\Page.cshtml",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Views\\Home\\Page.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\Home\\Page.cshtml",
+              "RelativeToolTip": "RoutingWithoutMVC\\Views\\Home\\Page.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:39:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RoutingWithoutMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:23:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingWithoutMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:18:46.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoutingWithoutMVC",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\RoutingWithoutMVC.csproj",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\RoutingWithoutMVC.csproj",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\RoutingWithoutMVC.csproj",
+              "RelativeToolTip": "RoutingWithoutMVC\\RoutingWithoutMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T19:17:58.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingWithoutMVC\\Program.cs",
+              "ToolTip": "D:\\DOTNET PROJECT\\MVC\\ROUTING\\RoutingWithoutMVC\\RoutingWithoutMVC\\Program.cs",
+              "RelativeToolTip": "RoutingWithoutMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:17:09.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

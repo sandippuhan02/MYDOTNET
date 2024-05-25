@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DataPassing
+build_property.RootNamespace = DataPassing
+build_property.ProjectDir = D:\DOTNET PROJECT\MVC\DATASTORAGE\DataPassing\DataPassing\DataPassing\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DOTNET PROJECT\MVC\DATASTORAGE\DataPassing\DataPassing\DataPassing
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DOTNET PROJECT/MVC/DATASTORAGE/DataPassing/DataPassing/DataPassing/Views/School/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOTNET PROJECT/MVC/DATASTORAGE/DataPassing/DataPassing/DataPassing/Views/School/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOTNET PROJECT/MVC/DATASTORAGE/DataPassing/DataPassing/DataPassing/Views/School/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

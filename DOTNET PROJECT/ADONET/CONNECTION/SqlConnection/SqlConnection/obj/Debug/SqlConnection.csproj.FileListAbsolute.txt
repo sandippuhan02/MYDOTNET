@@ -1,0 +1,12 @@
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe.config
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\SqlConnection.pdb
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\System.Data.SqlClient.dll
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\bin\Debug\System.Data.SqlClient.xml
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\obj\Debug\SqlConnection.csproj.AssemblyReference.cache
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\obj\Debug\SqlConnection.csproj.CoreCompileInputs.cache
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\obj\Debug\SqlConne.A9D08457.Up2Date
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\obj\Debug\SqlConnection.exe
+D:\DOTNET PROJECT\ADONET\CONNECTION\SqlConnection\SqlConnection\obj\Debug\SqlConnection.pdb
